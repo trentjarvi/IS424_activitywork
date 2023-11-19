@@ -435,7 +435,7 @@ db.collection("teams")
   });
 
 db.collection("teams")
-  .doc("p4MhGNmClQ2RtaWHNBkO")
+  .doc("p4MhGNmClQ2RtbaWHNBkO")
   .update({
     color: {
       home: "Red",
